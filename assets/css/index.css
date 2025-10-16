@@ -17,8 +17,8 @@ body {
 }
 .btn-brand:hover {
   background: rgba(27, 197, 189, 0.08);
-  /* border-color: var(--brand); */
-}
+  color: white;
+  border-color: var(--brand);}
 .btn-outline-brand {
   color: var(--brand);
   border-color: var(--brand);
@@ -26,6 +26,8 @@ body {
 }
 .btn-outline-brand:hover {
   background: rgba(27, 197, 189, 0.08);
+  color: white;  border-color: var(--brand);
+
 }
 
 /* Soft elements */
@@ -102,4 +104,25 @@ body {
   .mockup-visual {
     min-height: 220px;
   }
+}
+
+.hero-section{
+  background-image: url('../images/heroImg.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+
+.section-overlay{
+  background: #000000b0;
+}
+
+.solution-overview{
+  background: #bcbcbc;
+}
+.tech-innovation{
+  background: url('../images/tech_quality1.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
