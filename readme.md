@@ -1,4 +1,4 @@
-# 🌐 Project Name — Hospitality Management Solution
+# 🌐 Project Name — Hotel Money
 
 A modern hospitality software solution designed to simplify property management, reservations, and guest experience for hotels, resorts, and lodges.  
 Built with **HTML**, **Bootstrap 5**, and minimal **custom CSS**, focusing on performance, scalability, and clean design.
