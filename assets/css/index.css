@@ -17,7 +17,7 @@ body {
 }
 .btn-brand:hover {
   background: rgba(27, 197, 189, 0.08);
-  color: white;
+  color: var(--brand);
   border-color: var(--brand);}
 .btn-outline-brand {
   color: var(--brand);
